@@ -1,0 +1,14 @@
+## 🌟 Loan Prediction Model 🌟
+🚀 This project is a machine learning-based loan prediction system that uses Python to predict whether a loan will be approved or not. The model is powered by libraries like pandas, seaborn, and scikit-learn, and includes an interactive Streamlit web application for user-friendly predictions.
+## 🔥 Features
+📊 Data analysis and visualization with Seaborn.
+🤖 Machine learning model built using Support Vector Machine (SVM).
+🖥️ Interactive web interface with Streamlit for predictions.
+💾 Persistent model storage using joblib.
+## 🛠️ Technologies Used
+Programming Language: 🐍 Python
+## Libraries:
+pandas - Data manipulation.
+seaborn - Data visualization.
+scikit-learn - Machine learning algorithms.
+streamlit - Web application framework.
